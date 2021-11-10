@@ -12,7 +12,7 @@ en:
     community_name_is_great: "%{community_name} is great!"
     copy_link: Copy link
     create_account: צור חשבון
-    create_post: Create Post
+    create_post: צור פוסט
     dashboard: Dashboard
     edit_profile: ערוך פרופיל
     feed: Feed
@@ -37,7 +37,7 @@ en:
     my_tags: התגיות שלי
     pinned: Pinned
     popular_tags: תגיות נפוצות
-    post: Post
+    post: פוסט
     posts: Posts
     reaction: Reaction
     reaction_pluralized:
@@ -45,16 +45,16 @@ en:
       other: reactions
     reactions:
       heart: Heart
-      save: Save
+      save: שמור
       unicorn: Unicorn
     reading_list: Reading list
     reply: Reply
-    report_abuse: Report abuse
-    search: Search
+    report_abuse: דווח על ספאם
+    search: חפש
     see_all: See all
     series: Series
     settings: הגדרות
-    sign_out: Sign Out
+    sign_out: צא
     trending_on: Trending on
     week: Week
     year: Year

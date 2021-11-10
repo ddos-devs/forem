@@ -16,29 +16,29 @@ en:
     dashboard: Dashboard
     edit_profile: ערוך פרופיל
     feed: Feed
-    follow: Follow
+    follow: עקוב
     follow_back: Follow back
     follower: Follower
-    followers: Followers
-    following: Following
+    followers: עוקבים
+    following: עובק
     home: בית
     infinity: Infinity
-    joined: Joined
+    joined: הצטרף
     joined_on: Joined on
     latest: Latest
     like: Like
     listings: Listings
     loading: loading...
-    location: Location
+    location: מיקום
     log_in: כניסה
     moderator_center: Moderator Center
     month: Month
     more_from: More from
     my_tags: התגיות שלי
-    pinned: Pinned
+    pinned: נעוץ
     popular_tags: תגיות נפוצות
     post: פוסט
-    posts: Posts
+    posts: פוסטים
     reaction: Reaction
     reaction_pluralized:
       one: reaction
@@ -47,8 +47,8 @@ en:
       heart: Heart
       save: שמור
       unicorn: Unicorn
-    reading_list: Reading list
-    reply: Reply
+    reading_list: רשימת קריאה
+    reply: הגב
     report_abuse: דווח על ספאם
     search: חפש
     see_all: See all
@@ -217,13 +217,13 @@ en:
         one: is the wrong length (should be 1 character)
         other: is the wrong length (should be %{count} characters)
   settings_menu:
-    account: Account
+    account: חשבון
     billing: Billing
-    customization: Customization
-    extensions: Extensions
-    notifications: Notifications
-    organization: Organization
-    profile: Profile
+    customization: התאמה אישית
+    extensions: תוספים
+    notifications: התרעות
+    organization: ארגון
+    profile: פרופיל
   time:
     formats:
       comment: "%B %d, %Y"

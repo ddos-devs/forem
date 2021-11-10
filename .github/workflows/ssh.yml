@@ -13,4 +13,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         port: 22
-        script: ps:inspect nforem
+        script: git:sync --build nforem https://github.com/ddos-devs/forem main

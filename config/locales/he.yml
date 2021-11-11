@@ -20,11 +20,11 @@ en:
     follow_back: Follow back
     follower: Follower
     followers: עוקבים
-    following: עובק
+    following: עוקב
     home: בית
     infinity: Infinity
     joined: הצטרף
-    joined_on: Joined on
+    joined_on: הצטרף ב
     latest: Latest
     like: Like
     listings: Listings
@@ -52,21 +52,21 @@ en:
     report_abuse: דווח על ספאם
     search: חפש
     see_all: See all
-    series: Series
+    series: סדרה
     settings: הגדרות
     sign_out: צא
     trending_on: Trending on
     week: Week
     year: Year
   dashboard:
-    empty_follower: You don't have any followers yet...
+    empty_follower: אין לך עוקבים עדיין...
     empty_post: This is where you can manage your posts, but you haven't written anything yet.
     following_users: Following users
     loading: loading...
-    not_following_any_users: You don't follow any users...
+    not_following_any_users: אתה לא עוקב עדיין אחר משתמשים....
     page_title: Dashboard
     upload_a_video: Upload a video
-    write_new_post: Write your first post now
+    write_new_post: כתוב את הפוסט הראשון שלך
   datetime:
     distance_in_words_ago: # https://github.com/openstreetmap/openstreetmap-website/issues/2255
       about_x_hours:
@@ -186,10 +186,10 @@ en:
     messages:
       accepted: must be accepted
       bad_protocol: must start with %{protocols}
-      bad_uri: is an invalid url
+      bad_uri: כתובת לא חוקית
       blank: can't be blank
       confirmation: doesn't match %{attribute}
-      empty: can't be empty
+      empty: לא יכול להיות ריק
       equal_to: must be equal to %{count}
       even: must be even
       exclusion: is reserved
@@ -206,7 +206,7 @@ en:
       other_than: must be other than %{count}
       present: must be blank
       required: must exist
-      taken: has already been taken
+      taken: כבר בשימוש
       too_long:
         one: is too long (maximum is 1 character)
         other: is too long (maximum is %{count} characters)

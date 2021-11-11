@@ -217,13 +217,13 @@ en:
         one: is the wrong length (should be 1 character)
         other: is the wrong length (should be %{count} characters)
   settings_menu:
-    account: חשבון
-    billing: Billing
-    customization: התאמה אישית
-    extensions: תוספים
-    notifications: התרעות
-    organization: ארגון
-    profile: פרופיל
+      account: Account
+      billing: Billing
+      customization: Customization
+      extensions: Extensions
+      notifications: Notifications
+      organization: Organization
+      profile: Profile
   time:
     formats:
       comment: "%B %d, %Y"

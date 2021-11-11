@@ -1,0 +1,28 @@
+---
+en:
+  views:
+    editor:
+      meta:
+        title: ערוך פוסט
+      heading:
+        new: פוסט חדש
+      create: צור פוסט
+      close:
+        icon: Close
+        title: סגור
+      cover_image:
+        add: הוסף תמונת תצוגה
+        change: החלף
+      edit: ערוך
+      modes: View post modes
+      new_title: כותרת חדשה...
+      preview: הצג
+      video:
+        progress:
+          heading: "⏳ Video Transcoding In Progress ⏳"
+          notice_1: You'll get an email when this process finishes.
+          notice_2: This is an ordinary unpublished post. Add title/tags/body/etc, and then mark as published after the video is done processing.
+        submit_image:
+          button: Submit Change
+          text: 'Preview Image URL: '
+          placeholder: New Thumbnail URL

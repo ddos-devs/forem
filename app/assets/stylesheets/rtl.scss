@@ -1,0 +1,76 @@
+.crayons-story__author-pic {margin-left: var(--su-2);margin-right: 0;}
+.crayons-icon {margin-left: var(--icon-margin)}
+.crayons-story__tertiary {margin-left: var(--su-2);}
+.crayons-btn--icon-left {padding-right: calc(var(--with-icon-padding) - var(--border-width));}
+.crayons-indicator {margin-right: auto;}
+.highlight {direction: ltr;}
+
+.comment.child.comment--deep-1 {
+  padding-left: inherit;
+  padding-right: var(--level-1-indent);
+}
+.comment.child.comment--deep-2 {
+  padding-left: inherit;
+  padding-right: var(--level-2-indent)
+}
+.comment.child.comment--deep-3 {
+  padding-left: inherit;
+  padding-right: var(--level-3-indent)
+}
+.comment.child.comment--deep-4 {
+  padding-left: inherit;
+  padding-right: var(--level-4-indent)
+}
+
+.comment__dropdown {
+  margin-right: auto;
+  margin-left: calc(-1 * var(--su-3));
+}
+.comment__details {
+  padding-right: var(--su-2);
+}
+
+
+.mr-0 {margin-left: 0;}
+.mr-1 {margin-left: var(--su-1);}
+.mr-2 {margin-left: var(--su-2);}
+.mr-3 {margin-left: var(--su-3);}
+.mr-4 {margin-left: var(--su-4);}
+.mr-5 {margin-left: var(--su-5);}
+.mr-6 {margin-left: var(--su-6);}
+.mr-7 {margin-left: var(--su-7);}
+.mr-8 {margin-left: var(--su-8);}
+.mr-9 {margin-left: var(--su-9);}
+
+.ml-0 {margin-right: 0;}
+.ml-1 {margin-right: var(--su-1);}
+.ml-2 {margin-right: var(--su-2);}
+.ml-3 {margin-right: var(--su-3);}
+.ml-4 {margin-right: var(--su-4);}
+.ml-5 {margin-right: var(--su-5);}
+.ml-6 {margin-right: var(--su-6);}
+.ml-7 {margin-right: var(--su-7);}
+.ml-8 {margin-right: var(--su-8);}
+.ml-9 {margin-right: var(--su-9);}
+
+.pr-0 {padding-left: 0;}
+.pr-1 {padding-left: var(--su-1);}
+.pr-2 {padding-left: var(--su-2);}
+.pr-3 {padding-left: var(--su-3);}
+.pr-4 {padding-left: var(--su-4);}
+.pr-5 {padding-left: var(--su-5);}
+.pr-6 {padding-left: var(--su-6);}
+.pr-7 {padding-left: var(--su-7);}
+.pr-8 {padding-left: var(--su-8);}
+.pr-9 {padding-left: var(--su-9);}
+
+.pl-0 {padding-right: 0;}
+.pl-1 {padding-right: var(--su-1);}
+.pl-2 {padding-right: var(--su-2);}
+.pl-3 {padding-right: var(--su-3);}
+.pl-4 {padding-right: var(--su-4);}
+.pl-5 {padding-right: var(--su-5);}
+.pl-6 {padding-right: var(--su-6);}
+.pl-7 {padding-right: var(--su-7);}
+.pl-8 {padding-right: var(--su-8);}
+.pl-9 {padding-right: var(--su-9);}

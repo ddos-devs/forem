@@ -1,0 +1,89 @@
+---
+he:
+  views:
+    articles:
+      meta:
+        description: מאמר מהקהילה
+      actions:
+        aria_label: פעולות על המאמר
+      comments:
+        aria_label: הערות לפוסט %{title} (%{num})
+        subtitle_html: תגובות %{num}
+        num: "(%{num})"
+        subscribe: עקוב
+      conduct:
+        aria_label: בקרת התנהגות
+        code: קוד התנהגות
+        report: דווח על תקלה
+      delete:
+        heading: בטוח שברצונך למחוק את המאמר?
+        desc:
+          text_html: אי אפשר לבטל את הפעולה, רוצה אולי רק ל %{action} במקום?
+          edit: ערוך
+          unpublish: בטל פרסום
+        action:
+          button: מחק
+          cancel: בטל
+          edit: ערוך
+          unpublish: בטל פרסום
+      lock:
+        meta:
+          title: אשר ביטול תגובות
+        heading: לנעול את התגובות לפוסט זה? בטוח?
+        desc_html: משתמשים לא יוכלו לפרסם תגובות. זה <em class="fw-bold">לא</em> ימחק את התגובות הקיימות. ניתן לבטל את הנעילה בכל זמן ולאפשר למשתמשים לפרסם את תגובותיהם
+        cancel: בטל
+        notes:
+          label: הערות (אופציונלי) - זה נראה רק לך ומנהלים
+          placeholder: עוד פרטים על למה נעלת את התגובות.
+        reason:
+          label: סיבת נעילת התגובות (אופציונלי) - זה יפורסם לכולם
+          placeholder: הסיבה למה נעלת את התגובות.
+        submit: נעל תגובות
+      preview_discuss_html:
+        zero: תגובה חדשה!
+        one: '#תגובה <img src="%{image}" />%{count}'
+        other: '#תגובות <img src="%{image}" />%{count}'
+      save:
+        title: שמור ברשימת קריאה
+        aria_label: שמור ברשימת קריאה
+        initial: שמור
+        success: נשמר
+      series:
+        subtitle: "%{slug} (%{size})"
+        size:
+          one: "%{count} חלק מסדרה"
+          other: "%{count} חלקים מסדרה"
+        published: פורסם ב %{date}
+        inbetween:
+          num: "..."
+          text:
+            one: חלק אחד נוסף...
+            other: "%{count} חלקים נוספים..."
+          title: הצג עוד
+      unlock:
+        meta:
+          title: אשר ביטול נעילת התגובות
+        heading: בטוח שברצונך לפתוח את האפשרות להגיב לפוסט זה?
+        desc: משתמשים יוכלו להשאיר תגובה לפוסט. ניתן לנעול את התגובות לפוסט בכל זמן ולמנוע ממשתמשים להשאיר תגובה לפוסט זה.
+        cancel: בטל
+        notes: 'Notes from when this discussion was locked (only visible to you and admins):'
+        reason: 'Reason this discussion was locked (publicly visible):'
+        submit: נעל תגובות
+      unpublished:
+        subtitle: בטל פרסום הפוסט.
+        text: " הurl הוא ציבורי אך סודי, אז שתף אותו לאנשים שאתה סומך עליהם."
+        edit: לחץ כדי לערוך
+      co_authors_html: יחד עם %{names}
+      crossposted:
+        text_html: פורסם במקור ב %{url} %{on}
+        on_html: ב %{date}
+      edited: עודכן ב %{date}
+      edited_html: עודכן ב %{date}
+      for_org_html: "%{start} עד %{end}%{org}"
+      missing: מאמר לא זמין
+      posted_html: נכתב ב %{date}
+      read_next: קרא עוד
+      reading_time:
+        one: "דקת קריאה"
+        other: "%{count} דקות קריאה"
+      right_nav: פרטי המחבר

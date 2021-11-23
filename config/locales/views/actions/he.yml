@@ -1,0 +1,25 @@
+---
+he:
+  views:
+    actions:
+      copy:
+        text: העתק ללוח
+        title: העתק את הקישור למאמר ללוח
+        button: העתק קישור
+      more:
+        title: עוד...
+        aria_label: אפשרויות שיתוף פוסט
+      share:
+        facebook:
+          text: שתף ב Facebook
+        hackernews:
+          text: שתף ב Hacker News
+        linkedin:
+          text: שתף ב LinkedIn
+        reddit:
+          text: שתף ב Reddit
+        twitter:
+          text: שתף ב Twitter
+          query: '"%{article}" ע״י %{author}'
+        link: שתף פוסט באמצעות...
+        report: דווח על תקלה
